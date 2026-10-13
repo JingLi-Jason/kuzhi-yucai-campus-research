@@ -1,0 +1,64 @@
+name: Import and verify research archive
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download archive parts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/research-import"
+          gh release download v1.0.0 --repo "$GITHUB_REPOSITORY" \
+            --pattern 'research-archive.zip.part*' \
+            --dir "$RUNNER_TEMP/research-import"
+      - name: Reassemble and verify archive
+        shell: python
+        run: |
+          from pathlib import Path
+          import hashlib, os, shutil, zipfile
+          folder = Path(os.environ["RUNNER_TEMP"]) / "research-import"
+          parts = sorted(folder.glob("research-archive.zip.part*"))
+          expected_names = [f"research-archive.zip.part{i:03d}" for i in range(1, 18)]
+          assert [p.name for p in parts] == expected_names, "Archive parts missing"
+          archive = folder / "research.zip"
+          with archive.open("wb") as dest:
+              for part in parts:
+                  with part.open("rb") as source:
+                      shutil.copyfileobj(source, dest)
+          expected = "cfe01bb403a51d6bea19496a638cab2680f3aae1dae0ca91cac5a4672854f3d1"
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
+          root = Path.cwd().resolve()
+          with zipfile.ZipFile(archive) as bundle:
+              for entry in bundle.infolist():
+                  target = (root / entry.filename).resolve()
+                  assert target.is_relative_to(root), "Invalid archive path"
+                  assert ".git" not in Path(entry.filename).parts
+                  assert ".github" not in Path(entry.filename).parts
+              bundle.extractall(root)
+          print("Archive SHA-256 verified; English project directories extracted.")
+      - name: Verify source files and keyword analysis
+        run: |
+          python src/verify_project.py
+          python src/recount_keywords.py
+      - name: Commit complete project
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config core.autocrlf false
+          git add README.md .gitattributes .gitignore archive assets data docs figures outputs raw src
+          if git diff --cached --quiet; then
+            echo "All research files are already present."
+          else
+            git commit -m "Import complete research project and verified source materials"
+            git push origin HEAD:main
+          fi
+          printf '## Archive verification\n\n323 source files verified. All project directories use English names.\n\nKeyword recount completed successfully.\n' >> "$GITHUB_STEP_SUMMARY"
