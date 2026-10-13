@@ -62,3 +62,11 @@ jobs:
             git push origin HEAD:main
           fi
           printf '## Archive verification\n\n323 source files verified. All project directories use English names.\n\nKeyword recount completed successfully.\n' >> "$GITHUB_STEP_SUMMARY"
+      - name: Add single-file download
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view v1.0.0 --repo "$GITHUB_REPOSITORY" --json assets --jq '.assets[].name' | grep -Fxq 'kuzhi-yucai-campus-research.zip'; then
+            cp "$RUNNER_TEMP/research-import/research.zip" "$RUNNER_TEMP/research-import/kuzhi-yucai-campus-research.zip"
+            gh release upload v1.0.0 "$RUNNER_TEMP/research-import/kuzhi-yucai-campus-research.zip" --repo "$GITHUB_REPOSITORY"
+          fi
