@@ -1,0 +1,2 @@
+# Preserve exact source bytes and checksum reproducibility on every OS.
+* -text
