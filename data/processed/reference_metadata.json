@@ -1,0 +1,374 @@
+[
+  [
+    "The impact of classroom design on pupils learning final results holistic multi level analysis",
+    [
+      {
+        "title": [
+          "The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis"
+        ],
+        "author": [
+          {
+            "given": "Peter",
+            "family": "Barrett",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fay",
+            "family": "Davies",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yufan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lucinda",
+            "family": "Barrett",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1016/j.buildenv.2015.02.013",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Building and Environment"
+        ],
+        "volume": "89",
+        "page": "118-133",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0360132315000700?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0360132315000700?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "title": [
+          "A holistic, multi-level analysis identifying the impact of classroom design on pupils’ learning"
+        ],
+        "author": [
+          {
+            "given": "Peter",
+            "family": "Barrett",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yufan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joanne",
+            "family": "Moffat",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Khairy",
+            "family": "Kobbacy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1016/j.buildenv.2012.09.016",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Building and Environment"
+        ],
+        "volume": "59",
+        "page": "678-689",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0360132312002582?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0360132312002582?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "The extent of children independent mobility and the number of actualized affordances",
+    [
+      {
+        "title": [
+          "The extent of children's independent mobility and the number of actualized affordances as criteria for child-friendly environments"
+        ],
+        "author": [
+          {
+            "given": "Marketta",
+            "family": "Kyttä",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1016/s0272-4944(03)00073-2",
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Environmental Psychology"
+        ],
+        "volume": "24",
+        "page": "179-198",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0272494403000732?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0272494403000732?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Actualized fitness technology affordances: Conceptualization and validation of a measurement scale"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5671-1539",
+            "authenticated-orcid": false,
+            "given": "Yafang",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1075-4944",
+            "authenticated-orcid": false,
+            "given": "Michelle",
+            "family": "Carter",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8179-9138",
+            "authenticated-orcid": false,
+            "given": "Robert E.",
+            "family": "Crossler",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1016/j.im.2026.104420",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Information &amp; Management"
+        ],
+        "volume": "63",
+        "page": "104420",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0378720626001205?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0378720626001205?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "The benefits of a greener schoolyard a review",
+    [
+      {
+        "title": [
+          "Understanding the benefits of “greener” shampoo"
+        ],
+        "author": [
+          {
+            "given": "Michelle",
+            "family": "Gabriel-Caldwell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1016/j.fos.2023.09.001",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "Focus on Surfactants"
+        ],
+        "volume": "2023",
+        "page": "1-2",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1351421023000227?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1351421023000227?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "title": [
+          "PUNJABI SCHOOLYARD"
+        ],
+        "author": null,
+        "DOI": "10.2307/j.ctt1zkjznf.34",
+        "published": null,
+        "container-title": [
+          "Short Histories of Light"
+        ],
+        "volume": null,
+        "page": "60-60",
+        "abstract": null,
+        "link": null
+      }
+    ]
+  ]
+]

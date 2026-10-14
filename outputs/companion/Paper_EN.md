@@ -1,0 +1,131 @@
+# Everyday Care, Spatial Choice
+
+Field Research and a Campus Design Proposal for Kuzhi Yucai Public Welfare School, Guiyang County
+
+## Abstract
+
+School life continues between lessons, around meals, and through the small moments when a child needs company or help. This study examines how campus design can support those everyday needs at Kuzhi Yucai Public Welfare School in Guiyang County, Hunan. Questionnaires, interviews, environmental assessment, activity observations, and spatial analysis explore how teaching areas, outdoor grounds, and support facilities work together. The findings inform a campus proposal that brings daily care closer to the places children already use.
+
+Classrooms and the playground occupy a central place in the questionnaire feedback. The environmental audit shows a more uneven pattern: activity support has the lowest domain mean, at 2.71 out of 5, with particular weaknesses in small-group settings and movable furniture. Toilets, handwashing, and waiting areas also need attention. Keyword analysis highlights classrooms and funding, while interviews connect the use of shared spaces with available teachers, continuing donations, and everyday companionship.
+
+The proposal joins teaching wings through sheltered circulation and places shared activities, sanitation, and adult support along familiar routes. Courtyard edges offer settings for conversation, quiet reading, and informal play. Improvements to the existing school begin with washing facilities, surfaces, seating, and storage, while the longer-term plan coordinates buildings and outdoor space. The study argues that a supportive campus grows from the connection between useful places, dependable routines, and people who are available when needed.
+
+## 01 / Everyday care and the school environment
+
+A school is experienced through a sequence of ordinary journeys: entering a classroom, finding a toilet, joining friends outside, waiting for a teacher, and returning for the next lesson. Each journey places different demands on the environment. Light and furniture matter inside a classroom; shade, seating, and easy access to help matter between lessons. A campus that supports children throughout the day needs to consider these transitions as carefully as its teaching rooms.
+
+At Kuzhi Yucai Public Welfare School, daily care is closely connected to education. Questionnaire feedback describes children who need support with everyday habits, relationships, and emotional well-being, including those with limited parental care. These concerns give the campus a wider role in children's lives. Dining, waiting, informal conversation, and shared activity become opportunities for continuity and reassurance. Spatial design can support this work by making essential facilities easy to reach and familiar adults easy to find.
+
+Research on classroom environments offers a useful starting point. Barrett and colleagues relate classroom characteristics, including flexibility and ownership, to pupils' learning progress in English primary schools [1]. Their work draws attention to how children use and experience a room. The World Health Organization's guidance on school sanitation connects convenient access with handwashing, privacy, cleaning, and maintenance [2]. Together, these perspectives place physical arrangements and everyday use within the same design discussion.
+
+This study examines the places that structure school life, the difficulties encountered in using them, and the ways those findings can guide a campus proposal. The main concern is the relationship between teaching, activity, and care. A classroom connects to corridors and outdoor areas; a support room depends on access and staff availability. The design therefore considers buildings, routes, and daily management together, with particular attention to improvements that can be maintained within the school's resources.
+
+## 02 / Research methods
+
+Fieldwork took place in September 2026 and combined questionnaires, interviews, environmental assessment, and observations of campus activity. The questionnaire covered frequently used places, preferred outdoor settings, underused areas, desired improvements, and barriers to change. Responses were organized by topic and compared with observations of the corresponding spaces. Interviews explored daily routines, teaching support, donations, and the school's relationship with children and former pupils. This approach connected stated needs with the practical conditions of school life.
+
+The environmental audit assessed thirty-five items across basic safety, comfort, activity support, care support, and spatial connections. The analysis examined item scores and domain means, with attention to the meaning of each question. Topics included toilets, washing, shade, ventilation, seating, small-group activity, privacy, and access to adults. Comparing these conditions helped identify where an improvement could address several daily needs at once, such as a sheltered waiting area near staff and frequently used circulation.
+
+Keyword analysis focused on the written questionnaire answers. Repeated terms concerning places, activities, and resources were counted in the Chinese text and grouped by topic. Classroom, teaching building, playground, funding, toilet, and school clinic were examined alongside the sentences in which they appeared. The combination of frequency and contextual reading revealed how often a subject arose and what kind of concern it expressed. Differences in priorities were carried into the design discussion, particularly the relationship between activity space and access to care.
+
+Activity observations covered afternoon lessons and breaks, recording where children gathered and how the same space changed over time. Photographs documented circulation, outdoor surfaces, shelter, and classroom settings. The timetable established the daily sequence of study, meals, rest, and activity. Site mapping examined the school boundary, nearby settlement, and roads. These strands were brought together through a sequence of spatial questions: where does an activity occur, what makes it convenient, and what arrangement would help it work better?
+
+## 03 / Questionnaire findings
+
+Questionnaire feedback places classrooms and the teaching block at the center of daily use, while the playground is associated with enjoyment and free activity. These places contribute to school life in different ways. The classroom establishes a regular setting for learning; the playground allows movement and a change of pace. Their connection deserves particular attention during short breaks, when children need to move easily between structured lessons and more independent activities without a complicated journey across the campus.
+
+The keyword count makes these priorities visible. Classroom occurs seven times, funding five times, teaching building four times, and playground three times. School clinic, toilet, play, and space each occur twice. The prominence of teaching spaces reflects their role in the daily routine, while funding connects spatial aspirations with the resources available to sustain them. Reading the terms together suggests that improvements should strengthen useful existing places while addressing the facilities and support needed around them.
+
+Specific comments explain what improvement could mean in practice. Feedback describes an inconvenient toilet outside the teaching building and a back area largely occupied by soil, with a small vegetable patch. It also raises the need for more children's activity space. Other comments describe empty classrooms and unused furniture following a suspension of junior-school teaching associated with funding difficulties. The school clinic and reliable professional support emerge as another priority. These concerns connect the physical condition of space with the people and resources needed to use it.
+
+Comments on underused space reveal a distinction between an empty room and an unnecessary function. Alongside references to vacant classrooms, the feedback also stresses the continuing value of the school's facilities. The design task is therefore to make rooms available for activities that the school can organize and maintain. A flexible classroom, for example, needs accessible storage, an opening schedule, and a responsible adult. Decisions about reuse should begin with these practical arrangements and the needs expressed in school life.
+
+## 04 / Environmental assessment
+
+The environmental audit records 118 points across thirty-five items, with an overall mean of 3.37 out of 5. Domain means are 3.83 for care support, 3.75 for basic safety, 3.44 for comfort, 3.00 for spatial connections, and 2.71 for activity support. Nineteen items received scores of 4 or 5, while ten received 1 or 2. The distribution shows a campus with useful existing provision and a set of concentrated weaknesses that can guide targeted improvement.
+
+Activity support is particularly uneven. Open activity ground received 5, reading space 4, and a place for being alone 4. Small-group space, movable furniture, and opportunities for children to arrange their surroundings each received 1. Children therefore have access to a large outdoor setting, while smaller and more adaptable settings need development. A table for a few children, a seat beside a classroom, or furniture that can be rearranged would introduce choices within the familiar structure of the school day.
+
+Comfort and care show a similar contrast. Shade, shelter, ventilation, and drinking-water provision received high marks; toilets, handwashing, and quiet areas each received 1. Visibility of children and the ability to find adults received 5, as did a psychological conversation space. Waiting space received 1 and medical or temporary-rest provision 3. These scores direct attention to the journey between facilities: the place to pause before a conversation, the route to washing, and the distance between a classroom and everyday assistance.
+
+The priority is to connect these needs through specific spatial improvements. Toilets and handwashing should be planned together, with clear access from teaching and activity areas. Small-group seating can occupy usable edges beside normal circulation. Waiting should have a recognizable place near staff, and quieter conversation should be supported by a suitable room or sheltered position. Each intervention can be assessed through ordinary use: whether it is easy to reach, comfortable to occupy, and manageable for the adults responsible for it.
+
+## 05 / Daily rhythms and space use
+
+The school timetable runs from rising at 06:30 to lights out at 21:00, covering 870 minutes. Lessons, morning reading, and evening study occupy 390 minutes, or 44.8 percent of that period. Meals account for 160 minutes, organized activity 90, midday rest 80, and eye exercises 30. The remaining 120 minutes fall between listed activities. These transitions accommodate movement, preparation, informal contact, and waiting, making the spaces between scheduled destinations an important part of daily campus use.
+
+Afternoon observations show how quickly the pattern of use changes. Around 14:00, approximately twenty children joined a teacher-led outdoor activity while corridors were relatively quiet. Around 15:00, the field was empty and each observed corridor floor held roughly twenty to twenty-five children talking or playing in small groups. An office was also used for contact between students and teachers. The movement from field to corridor reflects the changing opportunities available around lessons, rather than a fixed preference for one location.
+
+Around 16:00, outdoor grounds and corridors were again quiet during lessons. Activity gathered near corridors and the front or side play areas around 17:00, including table tennis. Uneven surfaces, aging equipment, and limited supervision were noted in these locations. A place that works during a quiet teaching period can become difficult to manage when several activities occur together. The design needs to anticipate these shifts through clear sightlines, usable edges, and surfaces that can support everyday movement and play.
+
+Short breaks favor nearby choices. A reading seat beside a classroom or a small table along a sheltered edge can be used within a few minutes. The 17:00–17:50 activity period creates more opportunity for longer outdoor sessions. The proposal combines a larger sports setting with modest places near teaching areas, linked by clear routes to toilets and washing. This distribution lets different parts of the timetable find suitable places while keeping return journeys to lessons straightforward and familiar.
+
+## 06 / Care and school operations
+
+Interviews describe the relationships that keep everyday support available: regular donations, companionship, daily habits, contact with former pupils, holiday arrangements, and supervision at night. These routines give continuity to a child's experience of school. They also have spatial consequences. A place for conversation needs someone who can listen; a room for shared activity needs an adult who can organize its use. The value of a support space develops through the relationship between its location and the people associated with it.
+
+Funding appears as a continuing concern in the questionnaire and interviews. Efforts to maintain monthly giving show the importance of predictable resources for everyday operation. Conversations about dance, science, art, and music also point to demand for teachers who can lead these activities. Flexible rooms should therefore be planned alongside teaching availability, materials, storage, and a workable schedule. Making these arrangements visible helps the school connect a proposed improvement with the recurring support that allows it to stay in use.
+
+Emotional support often grows through ordinary contact. Interviews describe a home-like atmosphere, communication after students leave, teacher learning, and outside assistance. A familiar adult along an everyday route can offer reassurance before a child needs a formal appointment. Privacy remains important when a conversation becomes personal. The campus can support both kinds of contact through staff presence near shared areas, a small waiting place, and access to a quieter setting where a child can speak without attracting attention.
+
+These findings lead to concrete arrangements within the proposal. A temporary-rest room is paired with a staff contact and a route to outside assistance. Shared activity rooms have nearby storage and a weekly program. Entrance waiting is connected to reception, while busy courtyard periods are visible from staffed areas. Such arrangements bring care into daily movement through the school. They also give each space a clear purpose, helping teachers and other adults coordinate their work around familiar locations.
+
+## 07 / Location and site relationships
+
+The school is located in Guiyang County, Chenzhou, in southern Hunan. Its setting combines a campus parcel of approximately 2.94 hectares with nearby settlement and local roads. The location study considers the school at several scales: its position within the county, its relationship with the surrounding village fabric, and the arrangement of buildings and open space within the site. Reading these scales together connects the campus entrance and internal routes with the wider pattern of arrival and daily contact.
+
+Site analysis focuses on the relationship between built areas, open ground, and access. The local setting raises practical questions about where visitors arrive, how staff receive them, and how movement connects to the teaching area. Within the campus, the sequence from entrance to reception, shared circulation, and outdoor activity should be easy to understand. This gives children a familiar everyday structure and helps visiting teachers, volunteers, and other support workers reach the places where they are needed.
+
+Field observations place the county center about 35 kilometers away, the town or public transport around 3.5 kilometers away, and the health clinic approximately 4 kilometers away. These distances make the organization of outside support relevant to campus planning. Questionnaire interest in the school clinic reinforces the need for a convenient point of contact. Reception, waiting, temporary rest, and communication with external services should form a clear sequence, helping staff organize a visit or respond when a child needs assistance.
+
+The masterplan places connected teaching wings beside outdoor sports grounds, with additional open land available for gradual development. Frequently used rooms and routes form a compact daily center, while the larger outdoor areas accommodate longer activities. The landscape should support this difference in use. Shaded seats and small-group settings belong close to teaching; open grounds allow movement and collective play. Simple planting, durable surfaces, and clear maintenance responsibilities can help these spaces remain usable through regular school routines.
+
+## 08 / Design priorities
+
+The proposal develops four linked priorities. The first is convenient access to everyday essentials. Questionnaire comments on the external toilet and low audit scores for sanitation point to the importance of short routes between classrooms, washing, and toilets. WHO guidance also emphasizes access, privacy, and maintenance [2]. Sanitation facilities near the junctions of the teaching wings can serve several daily activities. The adjoining route should remain clear, with washing and cleaning provision integrated into the same arrangement.
+
+The second priority is a range of activity settings. Open grounds support collective play, while small-group settings allow children to read, talk, or work with a few friends. The proposal combines sports grounds and a common courtyard with usable edges near classrooms. Movable tables and accessible storage allow a room to accommodate different activities during the week. This translates the classroom flexibility discussed by Barrett and colleagues [1] into practical decisions about furniture, access, and the everyday availability of space.
+
+The third priority is support close to normal circulation. Offices, consultation rooms, reception, and temporary rest are connected to places children already pass. Clear sightlines help adults remain aware of shared areas, while seats near a threshold offer a place to pause and make contact. More private conversations can then move to a quieter room. This sequence connects visibility with discretion: children can find assistance easily and continue a conversation in a setting appropriate to what they need.
+
+The fourth priority is manageable shared use. Dining, meeting, and activity rooms can serve different parts of the school day when opening times and responsibilities are clearly organized. The entrance should make visits, school routines, and quieter periods easy to coordinate. These priorities work together across several scales, from a washing point or table to the relationship between building wings. Each decision is tied to an observed use, an expressed need, or an everyday operating requirement that the school can recognize.
+
+## 09 / Architectural organization
+
+The campus is organized around two long teaching wings joined by a perpendicular circulation block, with a lower wing for dining and shared activities. The main building extends through four levels. The shared wing has three occupied levels and a roof below the uppermost teaching floor. This arrangement gives the campus a recognizable structure and creates a sequence of sheltered connections and outdoor spaces. The courtyard becomes a common reference point between learning, informal activity, and movement through the building.
+
+The ground floor brings together the library, entrance hall, school-history display, reception, administrative rooms, multifunction classrooms, and dining facilities. These uses give arrival a social and practical role in school life. Reception can help visitors orient themselves, while the library and shared rooms place activity near common circulation. Waiting should be organized beside staff contact. Dining and kitchen access also need clear connections, with service movement arranged around the everyday routes used by children and teachers.
+
+On the upper floors, multifunction classrooms continue along the teaching wings and offices occupy the connecting block. Rest, consultation, and psychological support are grouped in a smaller suite close to teaching. Meeting and activity rooms on the third level of the lower wing offer a further setting for collective use. Waiting beside the support suite can be made calmer through seating and careful placement, while adaptable furniture in shared classrooms allows different activities to take place within the same familiar layout.
+
+Pitched gray roofs, pale walls, repeated bays, stone-textured bands, and vertical screens give the buildings a consistent character. Corridors and recessed thresholds create depth along the elevations and mediate between classrooms and shared ground. At close range, the design emphasis is on places children pass, pause, and gather. Materials and details should be easy to clean and repair, with a clear relationship between indoor rooms, sheltered circulation, and the courtyard rather than isolated decorative gestures.
+
+## 10 / Implementation and follow-up
+
+Implementation begins with improvements that address repeated daily difficulties. Toilet and handwashing access, uneven activity surfaces, basic seating, waiting, and simple storage can be considered within the existing school. A room or corridor edge can first accommodate a small-group activity, allowing teachers and children to establish a useful routine. Early changes should be located where they will be encountered often. Their daily use can then guide the arrangement of more permanent facilities in the wider campus project.
+
+A second stage develops a dependable activity program. Movable furniture, durable materials, accessible storage, and a weekly schedule can support reading, art, science, and group work in shared rooms. Activities need to match the adults available to lead them. Regular donations can be connected to specific improvements whose recurring needs are clear. Planning should include cleaning, consumables, repairs, and staff time alongside the initial purchase, so that a new setting remains available after its first period of use.
+
+The longer-term campus coordinates buildings, outdoor grounds, and service access as one project. Teaching, dining, and support spaces should have agreed patterns of use and responsibility. Outdoor improvements can proceed in manageable sections, beginning with surfaces and shaded edges along frequent routes. As construction develops, the school can retain a clear sequence of arrival, learning, activity, and care. This phasing keeps daily operation central to the project while allowing the connected campus to take shape over time.
+
+Follow-up evaluation can use the same everyday situations that informed the design. Staff can check whether washing facilities are ready in the morning, where children gather during breaks, how waiting areas are used, and whether scheduled activities take place. Short conversations with pupils can explore comfort, convenience, and preferred places. Repeated observations before and after an improvement will help the school adjust furniture, opening times, or supervision. The aim is to keep refining spaces through their actual contribution to daily life.
+
+## 11 / Conclusion
+
+The research identifies connections that can make daily school life work more smoothly. Classrooms provide continuity, the playground offers freedom of movement, and familiar adults make support available. Toilets, washing, waiting, and small-group activity need closer relationships with these established places. Questionnaire feedback, environmental scores, and observations converge on a practical direction: improve the transitions between learning, shared activity, and care, with attention to how children use the campus throughout the day.
+
+The design responds through connected teaching wings, a shared courtyard, and support located along ordinary circulation. Different scales of activity are accommodated in sports grounds, shared rooms, and smaller settings near classrooms. Furniture, storage, opening times, cleaning, and staffing give these places a workable daily role. The phased approach begins with useful changes to the existing school and carries their operating requirements into the wider architectural proposal.
+
+A supportive campus allows a child to reach essential facilities, find a familiar adult, and choose a suitable place to spend time. These qualities can be developed through modest details as well as larger architectural decisions. A shaded seat, a clear route to washing, and a waiting place near staff all contribute to the same aim: making the school a dependable setting for learning, companionship, and everyday life.
+
+## References
+
+[1] Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. Building and Environment, 89, 118-133. DOI: 10.1016/j.buildenv.2015.02.013.
+
+[2] Adams, J., Bartram, J., Chartier, Y., & Sims, J. (Eds.). (2009). Water, sanitation and hygiene standards for schools in low-cost settings. World Health Organization. ISBN 978-92-4-154779-6. Sections 3.8-3.9 and Guideline 5.
+
+[F1] Kuzhi Yucai Public Welfare School field survey (September 2026). Questionnaire responses, environmental audit, activity observations, photographs, and school timetable.
+
+[F2] Kuzhi Yucai Public Welfare School interviews (September 2026). School operations, daily care, teaching support, and continuing donations.
+
+[D1] Kuzhi Yucai Public Welfare School campus design. Masterplan, floor plans, elevations, sections, and architectural perspectives.

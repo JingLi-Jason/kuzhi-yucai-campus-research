@@ -1,0 +1,36 @@
+﻿Item,Domain,Question,Original mark
+1,Basic safety,Is the ground level?,2
+2,Basic safety,Are there obvious level changes?,3
+3,Basic safety,Are there sharp edges?,3
+4,Basic safety,Do vehicles and pedestrians mix?,3
+5,Basic safety,Do stairs have handrails?,5
+6,Basic safety,Is it slippery when it rains?,5
+7,Basic safety,Is there lighting at night?,5
+8,Basic safety,Do monitoring / management cover key areas?,4
+9,Comfort,Is shade available?,5
+10,Comfort,Is rain shelter available?,5
+11,Comfort,Is there ventilation?,5
+12,Comfort,Are seats available?,4
+13,Comfort,Is drinking water available?,5
+14,Comfort,Are handwashing facilities available?,1
+15,Comfort,Are waste bins available?,4
+16,Comfort,Are toilets available?,1
+17,Comfort,Are quiet areas available?,1
+18,Activity support,Is open activity ground available?,5
+19,Activity support,Are small-group spaces available?,1
+20,Activity support,Is reading space available?,4
+21,Activity support,Is there a place to be alone?,4
+22,Activity support,Is movable furniture available?,1
+23,Activity support,May children arrange or change the setting?,1
+24,Activity support,Does it suit children of different ages?,3
+25,Care support,Can adults see the children?,5
+26,Care support,Can children quickly find adults?,5
+27,Care support,Is there waiting space?,1
+28,Care support,Is there space for psychological / quiet conversation?,5
+29,Care support,Is medical / temporary-rest space available?,3
+30,Care support,Are there blind spots in care coverage?,4
+31,Spatial connections,Is there an interface with families?,5
+32,Spatial connections,Is space shared with the community?,1
+33,Spatial connections,Can external service staff enter easily?,3
+34,Spatial connections,Is there space for town / charity services?,5
+35,Spatial connections,Can school resources open to the community?,1

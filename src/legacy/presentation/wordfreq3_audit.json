@@ -1,0 +1,99 @@
+{
+  "datasets": [
+    {
+      "title": "Recurring terms",
+      "categories": [
+        "Classroom",
+        "Funding",
+        "Teaching building",
+        "Playground",
+        "School clinic",
+        "Toilet",
+        "Play",
+        "Space"
+      ],
+      "terms": [
+        "教室",
+        "资金",
+        "教学楼",
+        "操场",
+        "校医室",
+        "厕所",
+        "玩耍",
+        "空间"
+      ],
+      "values": [
+        7,
+        5,
+        4,
+        3,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "title": "Campus spaces",
+      "categories": [
+        "Classroom",
+        "Teaching building",
+        "Playground",
+        "School clinic",
+        "Toilet",
+        "Dormitory",
+        "Dining hall"
+      ],
+      "terms": [
+        "教室",
+        "教学楼",
+        "操场",
+        "校医室",
+        "厕所",
+        "宿舍",
+        "食堂"
+      ],
+      "values": [
+        7,
+        4,
+        3,
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "title": "Care & resources",
+      "categories": [
+        "Funding",
+        "Charity",
+        "Volunteering",
+        "Daily care",
+        "Emotional support",
+        "Teaching staff",
+        "Donations"
+      ],
+      "terms": [
+        "资金",
+        "公益",
+        "志愿活动",
+        "生活照顾",
+        "情绪支持",
+        "师资",
+        "捐款"
+      ],
+      "values": [
+        5,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "pages": 15,
+  "original_text_missing": []
+}
